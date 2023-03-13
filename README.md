@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 📫 How to reach me **sumeyyedilaradogan@gmail.com**
+- 📫 You can reach me at **sumeyyedilaradogan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
