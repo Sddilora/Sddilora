@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/dilara-do%C4%9Fan-036030227/recent-activity/shares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilara doğan" height="30" width="40" /></a>
 <a href="https://instagram.com/sddilora" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sddilora" height="30" width="40" /></a>
-</p>
+</p> 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
