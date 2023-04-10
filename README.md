@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Dilara Doğan</h1>
-<img align="right" alt="Coding" width="100%" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp">
+<img align="left" alt="Coding" width="200" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sddilora&label=Profile%20views&color=0e75b6&style=flat" alt="sddilora" /> </p>
 
 - 🌱 I’m currently learning **Golang**, **Python**, **JavaScript**, **React**, **Java**
 
 - 📫 You can reach me at **sumeyyedilaradogan@gmail.com**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/dilara-do%C4%9Fan-036030227/recent-activity/shares/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dilara doğan" height="30" width="40" /></a>
