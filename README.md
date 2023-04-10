@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilara Doğan</h1>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp">
+<img align="right" alt="Coding" width="100%" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sddilora&label=Profile%20views&color=0e75b6&style=flat" alt="sddilora" /> </p>
 
 - 🌱 I’m currently learning **Golang**, **Python**, **JavaScript**, **React**, **Java**
