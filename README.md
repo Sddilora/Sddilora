@@ -31,7 +31,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sddilora&show_icons=true&locale=en" alt="sddilora"  height=150 px /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sddilora&" alt="sddilora" height=150 px /></p>
+### Github Stats
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sddilora&border_radius=8&mode=weekly&card_width=500)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sddilora&theme=github)
 
 
 
