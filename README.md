@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dilara Doğan</h1>
-<img align="left" alt="Coding" width="200" src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sddilora&label=Profile%20views&color=0e75b6&style=flat" alt="sddilora" /> </p>
+<img align="left" alt="Coding" width="200" margin=30px src="https://i.giphy.com/media/2IudUHdI075HL02Pkk/giphy.webp">
 
-- 🌱 I’m currently learning **Golang**, **Python**, **JavaScript**, **React**, **Java**
+- I have experience in:
+    - Golang, Python, JavaScript, React, Java
+    - Gofiber, Django, NextJS, React, Flask, LumosWeb
+    - Firebase, SQL
 
 - 📫 You can reach me at **sumeyyedilaradogan@gmail.com**
 <br>
@@ -36,5 +38,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sddilora&theme=github)
 
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=sddilora&label=Profile%20views&color=0e75b6&style=flat" alt="sddilora" /> </p>
 
 
