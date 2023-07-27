@@ -3,7 +3,7 @@
 # 🕵🏼‍♀️ About Me:
  🎧 I'm currently working on Java <br>
  🏅 I have experience in : <br>
- ⌨️ Golang, Python, JavaScript, React<br>
+ ⌨️ Golang, Python <br>
  💻 Gofiber, Django, NextJS, React, Flask, LumosWeb<br>
  🧩 Firebase, SQL
 
