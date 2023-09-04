@@ -1,7 +1,7 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=sddilora&label=Profile%20views&color=2aa889&style=for-the-badge" alt="sddilora" /> </p>
 
 # 🕵🏼‍♀️ About Me:
- 🎧 I'm currently working on Java, Spring Boot, JavaScript, Angular <br>
+ 🎧 I'm currently working on Java, Spring Boot, JavaScript, TypeScript, Angular <br>
  🏅 I have experience in : <br>
  ⌨️ Golang, Python <br>
  💻 Gofiber, Django, NextJS, React, Flask, LumosWeb<br>
