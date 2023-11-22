@@ -1,11 +1,12 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=sddilora&label=Profile%20views&color=2aa889&style=for-the-badge" alt="sddilora" /> </p>
 
 # 🕵🏼‍♀️ About Me:
- 🎧 I'm currently working on Java, Spring Boot, JavaScript, TypeScript, Angular <br>
+ 🎧 I'm currently improving myself in : Golang, Python <br>
  🏅 I have experience in : <br>
- ⌨️ Golang, Python <br>
- 💻 Gofiber, Django, NextJS, React, Flask, LumosWeb<br>
- 🧩 Firebase, SQL
+ ⌨️ Golang, Python, Java <br>
+ 💻 Gofiber, Django, Flask, LumosWeb<br>
+ 🧩 Firebase, SQL <br>
+ 🤝 Angular, Spring Boot, NextJS, React
 
 
 # 💻 Tech Stack:
