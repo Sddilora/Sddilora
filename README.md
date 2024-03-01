@@ -1,7 +1,7 @@
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=sddilora&label=Profile%20views&color=2aa889&style=for-the-badge" alt="sddilora" /> </p>
 
 # 🕵🏼‍♀️ About Me:
- 🎧 I'm currently improving myself in : Golang, Python <br>
+ 🎧 I'm currently improving myself in : Golang, Domain Driven Design<br>
  🏅 I have experience in : <br>
  ⌨️ Golang, Python, Java <br>
  💻 Gofiber, Django, Flask, LumosWeb<br>
