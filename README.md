@@ -8,6 +8,8 @@
  🧩 Firebase, SQL <br>
  🤝 Angular, Spring Boot, NextJS, React
 
+🕸 I have written a web framework with Python. You can find it here: https://github.com/Ubn-Jr/LumosWeb
+
 # 🪐 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sddilora&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sddilora&theme=gotham&hide_border=false8&mode=weekly)<br/>
