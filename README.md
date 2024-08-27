@@ -1,4 +1,3 @@
-<p align="left" > <img src="https://komarev.com/ghpvc/?username=sddilora&label=Profile%20views&color=2aa889&style=for-the-badge" alt="sddilora" /> </p>
 
 # 🕵🏼‍♀️ About Me:
  🎧 I'm currently improving myself in : Golang, Domain Driven Design<br>
@@ -15,3 +14,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sddilora&theme=gotham&hide_border=false8&mode=weekly)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sddilora&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=sddilora&label=Profile%20views&color=2aa889&style=for-the-badge" alt="sddilora" /> </p>
