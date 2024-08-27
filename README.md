@@ -7,7 +7,20 @@
  🧩 Firebase, SQL <br>
  🤝 Angular, Spring Boot, NextJS, React
 
-🕸 I have written a web framework with Python. You can find it here: https://github.com/Ubn-Jr/LumosWeb
+🕸 I have written a web framework with Python. You can find it here: https://github.com/Ubn-Jr/LumosWeb <be>
+
+🤝 My Full-Stack Projects : <br>
+ 🛍️ Ecommerce Platform ( Spring Boot & Angular ) : https://github.com/Sddilora/Glamify <br>
+ 💵 Ecommerce Platform ( Django & Next.js ) : https://github.com/Sddilora/Shopza <br>
+ ♟ Tic-Tac-Toe Game ( Next.js ): https://github.com/Sddilora/tic-tac-toe <br>
+ 🎚 Server Management App ( Spring Boot & Angular ) : https://github.com/Sddilora/ServerManagement <br>
+
+⌨️ My Backend Projects : <br>
+ 🧮 Data Format Converter ( Go ) : https://github.com/Sddilora/AsciiBinaryOctalConverter-API <br>
+ 🗃 Content Management API ( Go & Firebase ) : https://github.com/Sddilora/MinervaApi <br>
+ 📦 Data Retrieval API ( Go ) : https://github.com/Sddilora/Pikachu <br>
+ 
+
 
 # 🪐 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sddilora&theme=gotham&hide_border=false8&mode=weekly)<br/>
