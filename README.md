@@ -21,7 +21,7 @@
  🗃 Content Management API ( Go & Firebase ) : [MinervaApi](https://github.com/Sddilora/MinervaApi) <br>
  📦 Data Retrieval API ( Go ) : [Pikachu](https://github.com/Sddilora/Pikachu) <br>
 <br>
-### 🐙 **Our end-to-end project with our team :** [OctopOS Prime](https://github.com/octoposprime) ( Backend Team Leader with @Feyzanrs )<br>
+### 🐙 **Our end-to-end project with our team :** [OctopOS Prime](https://github.com/octoposprime) ( Backend Co-Team Leader)<br>
 <br>
 
 ### 🪐 GitHub Stats:
